@@ -2,7 +2,8 @@
 A recreation of the classic breakout game. Use a paddle at the bottom of the screen to deflect a ball and destroy the blocks at the top of the screen as it continues to speed up.
 
 -Coded using processing 3 and java
-\n-Note: Requires processing 3 to run
+
+-Note: Requires processing 3 to run
 
 Features
 ---------
